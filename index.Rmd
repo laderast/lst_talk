@@ -70,4 +70,7 @@ Noticable improvement in confidence to do Data Exploration!
 
 - Slides are here: http://bit.ly/lst_talk
 - laderast@ohsu.edu
+- @tladeras
+- http://laderast.github.io/
+- http://laderast.github.io/burro/
 - Try it out! http://tladeras.shinyapps.io/nhanes_explore/
